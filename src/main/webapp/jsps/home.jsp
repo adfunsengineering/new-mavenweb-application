@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project.</h1>
-<h1 align="center">Landmark Software Solutions (LSS)  are developing and supporting quality Software Solutions to millions of clients globally.
+<h1 align="center">Welcome to Tesla Web application Project redone by Adeoye Adeyinka.</h1>
+<h1 align="center">Adfuns Software Solutions (ASS)  are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaires IT professionals accross the nations of the World.
-	Landmark Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        Landmark Technologies, the Pride of Africa.
+	Adfuns Engineering Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
+        Adfuns Technologies, the Pride of Africa.
 	Class36 DevOps MasterClass started on April 13, 2024.
         Class37 DevOps MasterClass will start on July 13, 2024.
         Please invite all your contacts and friends for this life changing course.
@@ -39,20 +39,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Adfuns Engineering, 
+		Ibadan, Nigeria
+		+234 803 422 8676,
+		adfunsengineeringltd@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:adfunsengineering @gmail.com">Mail to Adfunsengineering </a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> Adfunsengineering - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://adfunsengineering.com/">Adfuns Engineering Limited</a> </small></p>
 
 </body>
 </html>
