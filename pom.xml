@@ -23,7 +23,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://172.31.8.156:9000/</sonar.host.url> 
-		<sonar.login>e47a98ece5533c725cfe70df793ee76f97f62cb0</sonar.login>
+		<sonar.login>squ_02cae789c6b3ef13a40b7ac81655e172bbc618ee</sonar.login>
 		<!-- <sonar.password>admin</sonar.password> -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.5.133:8081/repository/tomcat-project-release/</url>
+	      <url>http://15.237.50.18:7000/repository/tesla-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.5.133:8081/repository/tomcat-project-snapshot/</url>
+	      <url>http://15.237.50.18:7000/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
